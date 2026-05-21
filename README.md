@@ -27,9 +27,3 @@ The admin can review and approve booking requests efficiently.
 
 Android Application
 
-## Future Enhancements
-
-- User Registration
-- Online Payment Integration
-- Push Notifications
-- Real-time Availability Updates
